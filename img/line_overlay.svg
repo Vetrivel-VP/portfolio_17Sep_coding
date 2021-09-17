@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="531" height="216" viewBox="0 0 531 216">
+  <g id="line_overlay" transform="translate(-366 -1387)">
+    <path id="Union_2" data-name="Union 2" d="M77.493,127a16.733,16.733,0,0,1,0-33.466h88.28c9.51-5.376-.7-11.156-.7-11.156H16.733a16.733,16.733,0,1,1,0-33.466H218.081c1.6-1.056,3.025-1.4,3.625-2.426,2.114-3.587,2.184-6.457.843-8.456a15.235,15.235,0,0,0-5.585-4.563H100.6A16.733,16.733,0,0,1,100.6,0H375.209a16.733,16.733,0,0,1,0,33.466H247.751c-6.829.553-9.606,7.324-7.635,11.469.935,1.968,3.178,3.237,4.993,3.977H428.267a16.733,16.733,0,0,1,0,33.466H280.7c-8.595,5.124-2.493,9.823-.4,11.156h118.01a16.733,16.733,0,0,1,0,33.466Z" transform="translate(452 1432)" fill="#072142"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="192" height="33" rx="16.5" transform="translate(636 1387)" fill="#072142"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="372" height="34" rx="17" transform="translate(382 1569)" fill="#072142"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="75" height="34" rx="17" transform="translate(366 1480)" fill="#072142"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="18" cy="17.5" rx="18" ry="17.5" transform="translate(589 1387)" fill="#072142"/>
+    <path id="Path_3" data-name="Path 3" d="M569.16,1586.7s12.467,4.1,0,11.3,77.206,0,77.206,0-14.952-7.291,0-11.3S569.16,1586.7,569.16,1586.7Z" transform="translate(-29.1 -28.516)" fill="#072142"/>
+  </g>
+</svg>
